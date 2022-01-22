@@ -84,7 +84,7 @@ Dividends are the distribution of a companys profits to shareholders. In this ca
 We can plot the dividends overtime:
 
 
-apple.dividends.plot()
+    apple.dividends.plot()
 
 
 
