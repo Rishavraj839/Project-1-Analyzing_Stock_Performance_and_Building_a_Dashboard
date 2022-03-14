@@ -25,14 +25,32 @@ An investor can buy a stock and sell it later. If the stock price increases, the
 the investor with incur a loss.  Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. People trade stocks throughout the day. The stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges. In this lab, you will use the  y-finance API to obtain the stock ticker and extract information about the stock. You will then be asked questions about your results.  
 
 
-## completing this project by using two method
+## completing this project by using two Way
 
-### Method 1
+###  1:Extracting Stock Data Using a Python Library
 
 https://github.com/Rishavraj839/Project-1-Analyzing_Stock_Performance_and_Building_a_Dashboard/blob/main/extracting_stock_data%20using%20python%20library.ipynb
 
 
-### Method 2
+Using yfinance to Extract Stock Info
+
+
+Using yfinance to Extract Historical Share Price Data
+
+
+Using yfinance to Extract Historical Dividends Data
+
+
+### 2: Extracting Stock Data Using a Python Library
+
+Downloading the Webpage Using Requests Library
+
+
+Parsing Webpage HTML Using BeautifulSoup
+
+
+Extracting Data and Building DataFrame
+
 
 
 
