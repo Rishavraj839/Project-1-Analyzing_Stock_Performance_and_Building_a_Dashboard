@@ -29,7 +29,7 @@ the investor with incur a loss.  Determining the stock price is complex; it depe
 
 ###  1:Extracting Stock Data Using a Python Library
 
-https://github.com/Rishavraj839/Project-1-Analyzing_Stock_Performance_and_Building_a_Dashboard/blob/main/extracting_stock_data%20using%20python%20library.ipynb
+notebook link- https://github.com/Rishavraj839/Project-1-Analyzing_Stock_Performance_and_Building_a_Dashboard/blob/main/extracting_stock_data%20using%20python%20library.ipynb
 
 
 Using yfinance to Extract Stock Info
@@ -41,7 +41,13 @@ Using yfinance to Extract Historical Share Price Data
 Using yfinance to Extract Historical Dividends Data
 
 
-### 2: Extracting Stock Data Using a Python Library
+### 2: Extracting Stock Data Using a Web Scrapping
+
+
+Notebook link - 
+
+
+
 
 Downloading the Webpage Using Requests Library
 
@@ -50,6 +56,8 @@ Parsing Webpage HTML Using BeautifulSoup
 
 
 Extracting Data and Building DataFrame
+
+
 
 
 
