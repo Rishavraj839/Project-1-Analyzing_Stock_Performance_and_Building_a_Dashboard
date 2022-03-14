@@ -29,6 +29,13 @@ the investor with incur a loss.  Determining the stock price is complex; it depe
 
 ### Method 1
 
+https://github.com/Rishavraj839/Project-1-Analyzing_Stock_Performance_and_Building_a_Dashboard/blob/main/extracting_stock_data%20using%20python%20library.ipynb
+
+
+### Method 2
+
+
+
 
 
 
